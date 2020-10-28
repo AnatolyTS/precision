@@ -10,4 +10,5 @@
 
 ## Результаты
 
-1. 1 успешный тест 
+1. 1 не успешный тест 
+1. [скрин](https://github.com/AnatolyTS/precision/issues/1)
