@@ -11,4 +11,4 @@
 ## Результаты
 
 1. 1 не успешный тест 
-1. [скрин](https://github.com/AnatolyTS/precision/issues/1)
+1. [Ошибка сложения](https://github.com/AnatolyTS/precision/issues/1)
